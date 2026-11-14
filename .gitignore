@@ -1,0 +1,4 @@
+# Local research downloads and scratch material
+work/
+*.tmp
+.DS_Store

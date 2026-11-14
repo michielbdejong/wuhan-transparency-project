@@ -1,0 +1,25 @@
+name: Evidence or correction
+description: Suggest a sourced addition, correction, or response.
+title: "[Evidence] "
+body:
+  - type: textarea
+    id: claim
+    attributes:
+      label: Claim and location
+      description: Identify the statement and repository file.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source and relevant passage
+      description: Include a URL, date, and page or section. Avoid personal contact details.
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: Proposed change and limits
+      description: Explain what the source establishes, any contrary evidence, and the proposed wording.
+    validations:
+      required: true
