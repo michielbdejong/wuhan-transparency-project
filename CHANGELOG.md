@@ -16,6 +16,9 @@
 - COVID case: regraded findings under the revised scheme (F03 is now "not evidenced"; F12 and F15–F17 are observations under the volunteer and individual rule). Added F21 (HHS debarment decisions: primary publication not evidenced) and F22 (the inspector general's audit, published at its own stable location).
 - Proposed a data model linking sources, disclosure events, claims and graded findings (`research/data-model-proposal.md`), with stable `DE-YYYY-NNN` event IDs and CSVW metadata for validation.
 - Added a first draft register of 14 COVID-origins disclosure events, including two documented non-disclosures (`cases/covid-origins/disclosures.csv`). Every row cites existing sources; unknown dates and routes are left empty and explained.
+- Added recommendation-by-recommendation implementation status for the January 2023 HHS-OIG audit of NIH and EcoHealth, from OIG's tracker: 15 of 16 closed, with the "immediate notification" definition still open and its April 2025 update overdue.
+- Itemised outstanding WHO and SAGO evidence requests, with recipients and recorded responses, including China's National Health Commission reply, Germany's reply to the Bundestag and WHO's request for US intelligence (February 2026).
+- Recorded bounded-search results on journal responses: no published Nature Medicine editorial response found; The Lancet's explanation is limited to its addendum and the editor's 2021 evidence to the House of Commons.
 - Renamed the project from Wuhan Transparency Project to Wuhan Logs, to describe a record of disclosure rather than a campaign.
 - Added a draft disclosure control catalogue, statement of applicability and grading scheme (framework/), modelled on ISO/IEC 27001 audits, and re-graded the COVID material against it (cases/covid-origins/).
 

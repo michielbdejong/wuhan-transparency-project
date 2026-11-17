@@ -327,3 +327,120 @@ See [machine-readable metadata](register.json) and the [claim register](../data/
 - Use: Current revision at recheck: WHO Phase 2 subsection still ends at the 2022 preliminary report; only change from 1384989793 is citation tidying. Extended-confirmed protected (arbitration enforcement) at time of check.
 - Limit: Observation is about this revision only; protection status from page information and protection log at access time.
 - Review: Wikitext of this revision and its parent retrieved and diffed.
+
+## S80
+
+[OIG Recommendation Tracker: report A-05-21-00025 (report-grouped view)](https://oig.hhs.gov/reports/recommendations/tracker/?view-mode=report-grouped&search=A-05-21-00025&hhs-agency=all) — HHS Office of Inspector General. Published: 2026-11-16.
+
+- Type: Official recommendation-status record.
+- Use: Per-recommendation status, agency response, closure dates and expected-update dates for the 16 recommendations of the January 2023 NIH/EcoHealth audit.
+- Limit: Live page updated monthly; 'published' is the tracker's 'last updated' date. 'Closed Implemented' reflects OIG's acceptance of agency-reported action; the evidence for each closure is not published. Lists NIH as responsible agency even for recommendations addressed to EcoHealth. Tracker gives 'Concur' for recommendation 2 where the audit report says NIH 'generally concurred'.
+- Review: Fetched 2026-11-17 (tracker shows 'Last updated on Nov. 16, 2026'): 1 unimplemented, 15 implemented. 038.03 ('immediate notification' definition) Open Unimplemented, last update received 10/21/2024, next update expected 04/21/2025. Closure dates: .01/.04/.05/.06/.08 3 Aug 2023; .09 4 Aug 2023; .10/.13/.14/.15/.16 18 Oct 2023; .11/.12 16 Nov 2023; .07 8 Mar 2024; .02 28 Mar 2024. Same statuses appear on the report landing page (S13 URL).
+
+## S81
+
+[The National Institutes of Health and EcoHealth Alliance Did Not Effectively Monitor Awards and Subawards… (full report, A-05-21-00025)](https://oig.hhs.gov/oas/reports/region5/52100025.pdf) — HHS Office of Inspector General. Published: 2023-01-25.
+
+- Type: Independent government audit (full report with auditee comments).
+- Use: Text of recommendations and NIH's written comments, including its commitment to issue a Guide Notice and revise the Grants Policy Statement within 90 days to define 'immediate notification'.
+- Limit: Records commitments as of January 2023; does not show later implementation. Scanned agency-comment appendix has OCR errors.
+- Review: PDF (5.2 MB) downloaded and text extracted 2026-11-17; read pp. 31–32 (summary of NIH comments) and NIH's comment appendix on recommendations 2 and 3.
+
+## S82
+
+[WHO Director-General's opening remarks at the Member State briefing on the report of the Scientific Advisory Group for the Origins of Novel Pathogens – 27 June 2025](https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-the-report-of-the-scientific-advisory-group-for-the-origins-of-novel-pathogens---27-june-2025) — WHO. Published: 2025-06-27.
+
+- Type: Official speech.
+- Use: WHO's statement that China shared some but not all requested information (early sequences, market-animal information, Wuhan laboratory information) and that requested non-public intelligence reports had not been accessed.
+- Limit: Speech as delivered/published by WHO; does not itemise dates of individual requests.
+- Review: Full text read 2026-11-17.
+
+## S83
+
+[WHO Director-General's opening remarks at the media briefing – 27 June 2025](https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---27-june-2025) — WHO. Published: 2025-06-27.
+
+- Type: Official speech.
+- Use: 'Despite our repeated requests' China had not provided hundreds of early viral sequences, market-animal information or Wuhan laboratory information; intelligence reports requested but not accessed.
+- Limit: Covers several unrelated topics; origins passage is one section.
+- Review: Full text read 2026-11-17; origins passage confirmed.
+
+## S84
+
+[WHO urges US to share Covid origins intel (Agence France-Presse)](https://www.gmanetwork.com/news/topstories/world/976273/who-urges-us-to-share-covid-origins-intel/story/) — GMA News Online (AFP). Published: 2026-02-12.
+
+- Type: News report (wire).
+- Use: Reports a WHO press conference on Wednesday 11 February 2026 at which Tedros said WHO had written to senior US officials 'several months ago' and had not received information, and Van Kerkhove said WHO was following up with all governments reporting intelligence.
+- Limit: Secondary report of press-conference Q&A; WHO's published opening remarks for 11 February 2026 do not contain the origins exchange and no WHO transcript was located. Timestamp is 12 Feb 2026 (UTC+8).
+- Review: Full article read 2026-11-17. A 27 Feb 2026 Bloomberg interview (reported by El Imparcial) in which Tedros said he was 'very disappointed' was seen only via secondary coverage and not added.
+
+## S85
+
+[China's NHC denies part of WHO panel's assessment on COVID-19 origins](https://news.cgtn.com/news/2025-06-30/China-s-NHC-denies-part-of-WHO-panel-s-assessment-on-COVID-19-origins-1ECPBym3OE0/p.html) — CGTN. Published: 2025-06-30.
+
+- Type: State-media report of official statement.
+- Use: China's National Health Commission response to the SAGO report: data shared 'without reservation'; part of the report 'raised groundless requirements for China'; refers to the 30 April 2025 white paper.
+- Limit: State broadcaster's report of the statement; the NHC original was not located or read. Evidence of China's stated position, not of what was shared.
+- Review: Article read 2026-11-17.
+
+## S86
+
+[Antwort der Bundesregierung: Laborursprung des SARS-CoV-2-Virus (Drucksache 21/742)](https://dserver.bundestag.de/btd/21/007/2100742.pdf) — Deutscher Bundestag / Federal Government of Germany. Published: 2025-07-01.
+
+- Type: Official parliamentary answer.
+- Use: German government's response (transmitted 30 June 2025) to a parliamentary question on the BND assessment: declines disclosure of BND details on state-interest grounds; says the government is informed by WHO of WHO's findings.
+- Limit: Answer to an opposition (AfD) minor interpellation; the questioners' preamble is their framing. Does not state whether material was shared with WHO; absence of such a statement is not evidence it was not shared.
+- Review: PDF read 2026-11-17 (German): preliminary remark on confidentiality and answer to question 18 reviewed.
+
+## S87
+
+[Crossref metadata record for DOI 10.1038/s41591-020-0820-9](https://api.crossref.org/works/10.1038/s41591-020-0820-9) — Crossref. Published: 2026-11-17.
+
+- Type: Bibliographic metadata record.
+- Use: Absence of registered update records (correction, retraction, expression of concern) for Proximal Origin as of the check date.
+- Limit: Crossref reflects only updates the publisher has registered; 'published' is the retrieval date of a live record.
+- Review: Queried 2026-11-17: no 'update-to'/'updated-by' and filter=updates returned 0 results. Same day, the nature.com article page (S01 URL) loaded and showed 'Correspondence', with no editor's note, correction or expression of concern.
+
+## S88
+
+["Proximal Origins" Retraction Request #2](https://biosafetynow.substack.com/p/covid-origins-proximal-origins-retraction-daf) — Biosafety Now. Published: 2024-06-11.
+
+- Type: Advocacy letter and status account.
+- Use: That a second request for editorial action was sent to the Nature Medicine chief editor on 14 May 2024 and, per the requester, had not been acknowledged by 11 June 2024.
+- Limit: Requester's own account of the journal's (non-)response; advocacy, not evidence that the allegations are correct.
+- Review: Post read 2026-11-17. The S28 letter page (updated 27 October 2025) separately records acknowledgement of receipt on 1 August 2023 and '824 days with no formal response'.
+
+## S89
+
+[Anthony Fauci Behind Covid Origins Disinformation, Evidence Suggests](https://www.public.news/p/anthony-fauci-behind-covid-origins) — Public. Published: 2023-07-25.
+
+- Type: Advocacy journalism.
+- Use: Reports that on 22 July 2023 Nature Medicine's chief editor told The Telegraph a retraction was 'not warranted' because the paper was a 'point of view'.
+- Limit: Secondhand attribution with the publication's own characterisations; the Telegraph original was not accessed.
+- Review: Relevant passage read 2026-11-17.
+
+## S90
+
+[How A COVID Origins Study Went From Conspiracy Theory Slayer To Just A 'Point Of View'](https://www.dailywire.com/news/how-a-covid-origins-study-went-from-conspiracy-theory-slayer-to-just-a-point-of-view) — The Daily Wire. Published: 2023-07-25.
+
+- Type: News report.
+- Use: Corroborates that a Telegraph story published the weekend before 25 July 2023 conveyed Nature Medicine's characterisation of the paper as a 'point of view'.
+- Limit: Partly paywalled; only the lede was read. Secondhand; Telegraph original not accessed.
+- Review: Lede and metadata read 2026-11-17.
+
+## S91
+
+[Oral evidence: Reproducibility and research integrity, HC 606 (15 December 2021), Qq126–141](https://committees.parliament.uk/oralevidence/3211/html) — House of Commons Science and Technology Committee. Published: 2021-12-15.
+
+- Type: Parliamentary oral evidence transcript.
+- Use: Richard Horton's account of The Lancet's handling of Daszak's competing interests: declarations taken 'on trust'; 'over a year' to obtain full declaration; June 2021 information 'should definitely have been included'; 'now more vigilant' but no described procedural change.
+- Limit: Oral testimony, not a journal policy document. Direct and PDF fetches were blocked (403); text read via a fetch tool that returned verbatim extracts of the relevant answers.
+- Review: Answers to Q127, Q128, Q130, Q133 and Q134 read verbatim 2026-11-17.
+
+## S92
+
+[Under-fire Lancet admits conflict of interest on lab-leak letter](https://www.timeshighereducation.com/news/under-fire-lancet-admits-conflict-interest-lab-leak-letter) — Times Higher Education. Published: 2021-06-22.
+
+- Type: News report.
+- Use: Quotes the explanation in The Lancet's June 2021 addendum ('There may be differences in opinion as to what constitutes a competing interest'; authors invited to re-evaluate) and reports Daszak's recusal from the Lancet commission's origins taskforce.
+- Limit: Secondary quotation of the addendum; the PMC copy (S18) was behind a browser check on 2026-11-17 so the quotation was not re-verified against it. Page shows 'last updated June 5, 2025'.
+- Review: Full article read 2026-11-17.
