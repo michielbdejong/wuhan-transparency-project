@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+title: "Wuhan Logs"
+abstract: >-
+  A source-based log of how evidence about the origins of COVID-19 reached
+  the public: disclosure, research oversight and public communication,
+  tracked over time. It contains a chronology, an evidence register of
+  claims with their sources and limits, an annotated source register,
+  accountability dossiers, a reusable disclosure control framework and
+  draft proposals. It takes no position on whether the pandemic began
+  through animal spillover or a research-related incident. The initial
+  edition was AI-assisted and is being verified against its sources.
+authors:
+  - family-names: "de Jong"
+    given-names: "Michiel"
+license: CC-BY-4.0
+repository-code: "https://github.com/michielbdejong/wuhan-logs"
+version: "2026-11-17"
+date-released: "2026-11-17"
+keywords:
+  - COVID-19
+  - SARS-CoV-2
+  - pandemic origins
+  - disclosure
+  - research oversight
+  - transparency
+  - accountability
+  - evidence register

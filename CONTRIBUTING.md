@@ -19,3 +19,7 @@ Add source metadata to sources/register.json and the annotated index. Update dat
 For dynamic pages, record the access date and a permanent revision or archive link where available. An unverified archive link should never be described as a verified snapshot.
 
 An external proposal remains a draft until separately submitted. Record any later submission and response accurately.
+
+## Licence
+
+By contributing, you agree that your contribution is licensed under CC BY 4.0, as set out in [LICENSE](LICENSE). Do not submit third-party text or data beyond short, attributed quotations; link to the original instead.

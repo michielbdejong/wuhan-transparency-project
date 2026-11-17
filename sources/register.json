@@ -1,5 +1,5 @@
 {
-  "reviewed_on": "2026-11-14",
+  "reviewed_on": "2026-11-17",
   "sources": [
     {
       "id": "S01",
@@ -10,8 +10,8 @@
       "type": "Scientific correspondence",
       "supports": "Conclusions on genome features and laboratory scenarios.",
       "limitations": "The paper is an argument based on available evidence, not an audit of laboratories.",
-      "review": "Indexed article text; direct publisher fetch redirected.",
-      "reviewed_on": "2026-11-14"
+      "review": "Publisher page fetch failed 2026-11-17 (client error). Full text read 2026-11-17 via PubMed Central copy (PMC7095063), which confirms title, authors, Nature Medicine 26(4):450–452, published 17 March 2020, DOI 10.1038/s41591-020-0820-9. Confirmed the 'not a laboratory construct or a purposefully manipulated virus' conclusion, the statement that no laboratory-based scenario was considered plausible, and the acknowledgement that other theories could not currently be proved or disproved.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S02",
@@ -22,56 +22,56 @@
       "type": "Joint investigation report",
       "supports": "The joint team's original hypothesis rankings.",
       "limitations": "Distinguish the joint team from subsequent WHO leadership statements.",
-      "review": "Publication page and corroborating WHO statements reviewed.",
-      "reviewed_on": "2026-11-14"
+      "review": "Publication page fetched 2026-11-17: title and 30 March 2021 date confirmed. Main report PDF (linked from the page) summary read 2026-11-17: laboratory incident rated 'an extremely unlikely pathway'; intermediate host 'likely to very likely'. The report cover itself carries no publication date.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S03",
-      "title": "Director-General's remarks on the origins report",
+      "title": "WHO Director-General's remarks at the Member State Briefing on the report of the international team studying the origins of SARS-CoV-2",
       "publisher": "WHO",
       "published": "2021-03-30",
       "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-remarks-at-the-member-state-briefing-on-the-report-of-the-international-team-studying-the-origins-of-sars-cov-2",
       "type": "Official statement",
       "supports": "Tedros challenged the adequacy of the laboratory assessment on publication day.",
       "limitations": "Does not establish a laboratory origin.",
-      "review": "Full relevant statement reviewed.",
-      "reviewed_on": "2026-11-14"
+      "review": "Full statement read 2026-11-17. Date 30 March 2021 confirmed; Tedros said he did not believe the laboratory assessment 'was extensive enough'.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S04",
-      "title": "COVID-19 virtual press conference",
+      "title": "COVID-19 Virtual Press Conference",
       "publisher": "WHO",
       "published": "2021-07-15",
       "url": "https://www.who.int/docs/default-source/coronaviruse/transcripts/media_briefing_on_covid-19_with_dr_tedros_and_de_health_minister_jens_spahn.pdf",
       "type": "Official transcript",
       "supports": "Tedros described premature reduction of consideration of the laboratory hypothesis.",
       "limitations": "Criticism is not a quantified replacement probability.",
-      "review": "Relevant transcript passage reviewed; printed page 10.",
-      "reviewed_on": "2026-11-14"
+      "review": "Transcript PDF read 2026-11-17. Date 15 July 2021 confirmed. The 'premature push to especially reduce one of the options like the lab theory' passage is on PDF page 10 (approx. 00:26:30–00:28:03).",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S05",
-      "title": "Statement on advancing the next series of origins studies",
+      "title": "WHO Statement on advancing the next series of studies to find the origins of SARS-CoV-2",
       "publisher": "WHO",
       "published": "2021-08-12",
       "url": "https://www.who.int/news/item/12-08-2021-who-statement-on-advancing-the-next-series-of-studies-to-find-the-origins-of-sars-cov-2",
       "type": "Official statement",
       "supports": "WHO said evidence was insufficient to exclude hypotheses after review.",
       "limitations": "Does not state equal probability for all hypotheses.",
-      "review": "Full relevant statement reviewed.",
-      "reviewed_on": "2026-11-14"
+      "review": "Full statement read 2026-11-17. Date 12 August 2021 confirmed; WHO said there was 'insufficient scientific evidence to rule any of the hypotheses out'.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S06",
-      "title": "SAGO preliminary report",
+      "title": "Scientific Advisory Group for the Origins of Novel Pathogens (SAGO): preliminary report",
       "publisher": "WHO SAGO",
       "published": "2022-06-09",
       "url": "https://cdn.who.int/media/docs/default-source/scientific-advisory-group-on-the-origins-of-novel-pathogens/sago-report-09062022.pdf",
       "type": "Expert advisory report",
       "supports": "Recommendations for additional laboratory investigations.",
       "limitations": "Recommended investigations are not completed investigations.",
-      "review": "Relevant indexed passages reviewed.",
-      "reviewed_on": "2026-11-14"
+      "review": "PDF read 2026-11-17 (about the first 80% of the text, including executive summary and section 3.2). Date 9 June 2022 confirmed; recommendations for further laboratory investigations confirmed, as is the dissent of three members on that point.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S07",
@@ -82,56 +82,56 @@
       "type": "Expert advisory report",
       "supports": "Assessment of available evidence, missing records, laboratory access and government reports.",
       "limitations": "Conclusions are attributed to SAGO; this project has not independently reproduced its scientific review.",
-      "review": "Relevant sections reviewed, especially printed pp. 37–39, 44 and 57–58.",
-      "reviewed_on": "2026-11-14"
+      "review": "PDF retrieved and relevant pages read 2026-11-17 (78 pages; printed and PDF page numbers coincide). Date 27 June 2025 confirmed. Confirmed: request for 508 early sequences (p. 38); no access to verify biosafety in WIV or Wuhan CDC laboratory (p. 39); not possible to evaluate the laboratory hypothesis, requests refused (p. 40); intelligence-report review (pp. 43–44); weight of evidence suggests zoonotic spillover and laboratory hypothesis cannot be ruled out (pp. 57–58).",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S08",
-      "title": "WHO scientific advisory group issues report on origins of COVID-19",
+      "title": "WHO Scientific advisory group issues report on origins of COVID-19",
       "publisher": "WHO",
       "published": "2025-06-27",
       "url": "https://www.who.int/news/item/27-06-2025-who-scientific-advisory-group-issues-report-on-origins-of-covid-19",
       "type": "Official announcement",
       "supports": "WHO's public summary of the 2025 assessment.",
       "limitations": "Evidence favouring zoonosis and unresolved laboratory assessment must both be represented.",
-      "review": "Full relevant announcement reviewed.",
-      "reviewed_on": "2026-11-14"
+      "review": "Full announcement read 2026-11-17. Date 27 June 2025 confirmed; states that China has not shared requested sequences, market-animal and laboratory information, and that the work 'remains unfinished'.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S09",
-      "title": "WHO COVID-19 Global Risk Assessment, version 10",
+      "title": "WHO COVID-19 Global Risk Assessment – Version 10",
       "publisher": "WHO",
       "published": "2026-08-06",
       "url": "https://www.who.int/publications/m/item/covid-19-global-risk-assessment--version-10",
       "type": "Official risk assessment",
       "supports": "Continued unresolved origin and best-supported zoonotic hypothesis.",
-      "limitations": "Publication date is 6 August; assessment covers information through 30 July 2026.",
-      "review": "Landing page and PDF virus-origins section reviewed.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Publication date is 6 August; the PDF is dated 4 August and covers data reported 1 January–30 July 2026. The landing page itself does not discuss origins; the origins summary is in the PDF.",
+      "review": "Landing page and PDF read 2026-11-17. PDF repeats SAGO's view that a zoonotic origin is 'currently considered the best supported hypothesis' while available information is insufficient to determine the origin definitively.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S10",
-      "title": "WHO global framework for studies into pathogen origins",
+      "title": "WHO global framework to define and guide studies into the origins of emerging and re-emerging pathogens with epidemic and pandemic potential",
       "publisher": "WHO SAGO",
       "published": "2025-02-11",
       "url": "https://www.who.int/publications/i/item/9789240101470",
       "type": "Investigation framework",
       "supports": "Guidance includes investigating possible biosafety/biosecurity breaches.",
-      "limitations": "This is the editorial republication date; the framework existed in 2024. It is not proof that all recommendations were implemented.",
-      "review": "Publication overview and editorial-update note reviewed.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "This is the editorial republication date; the framework existed in 2024 (a WHO news item dated 4 September 2024 announces its launch). It is not proof that all recommendations were implemented.",
+      "review": "Publication page read 2026-11-17: 'updated and published again on 11 February 2025' after editorial changes; ISBN 9789240101470 confirmed; page says origins studies can confirm or exclude an unintentional laboratory biosafety/biosecurity breach. 2024 launch date seen only as a WHO news URL in search results, not fetched.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S11",
-      "title": "Joint statement on the WHO-convened COVID-19 origins study",
+      "title": "WHO-convened COVID-19 origins study: joint statement",
       "publisher": "Fourteen governments / UK FCDO",
       "published": "2021-03-30",
       "url": "https://www.gov.uk/government/news/joint-statement-who-convened-covid-19-origins-study",
       "type": "Government statement",
       "supports": "Calls for access, timeliness and independent investigation.",
       "limitations": "Criticism of process does not resolve origin.",
-      "review": "Full relevant statement reviewed.",
-      "reviewed_on": "2026-11-14"
+      "review": "Full statement read 2026-11-17. Date 30 March 2021 and 14 signatory governments confirmed; calls for full access, a timely and transparent process and independent analysis confirmed.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S12",
@@ -142,140 +142,140 @@
       "type": "Scientific letter, author-hosted copy",
       "supports": "Scientists called for balanced, transparent investigation and conflict management.",
       "limitations": "A call for research is not proof of either hypothesis.",
-      "review": "Author-hosted text reviewed.",
-      "reviewed_on": "2026-11-14"
+      "review": "Author-hosted text read 2026-11-17: Science 372:694, 14 May 2021, DOI 10.1126/science.abj0016. Confirmed calls for a transparent, objective investigation with managed conflicts of interest, and that both laboratory and zoonotic theories 'remain viable'. The 18-signatory count is from contemporaneous press coverage (New York Times via author's site), not from this page.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S13",
-      "title": "NIH and EcoHealth did not effectively monitor awards and subawards",
+      "title": "The National Institutes of Health and EcoHealth Alliance Did Not Effectively Monitor Awards and Subawards, Resulting in Missed Opportunities to Oversee Research and Other Deficiencies",
       "publisher": "HHS Office of Inspector General",
       "published": "2023-01-25",
       "url": "https://oig.hhs.gov/reports/all/2023/the-national-institutes-of-health-and-ecohealth-alliance-did-not-effectively-monitor-awards-and-subawards-resulting-in-missed-opportunities-to-oversee-research-and-other-deficiencies/",
       "type": "Independent government audit",
       "supports": "Monitoring and reporting failures, agency responses and EcoHealth disagreements.",
       "limitations": "The audit did not adjudicate experimental science or establish pandemic causation.",
-      "review": "Full executive summary and responses reviewed.",
-      "reviewed_on": "2026-11-14"
+      "review": "Report page read 2026-11-17 (A-05-21-00025, issued 25 January 2023). Confirmed: monitoring failures, nearly two-year delay following up a late progress report, EcoHealth's inability to obtain WIV documentation, $89,171 unallowable costs, NIH concurrence, EcoHealth's disagreements, improper grant termination, WIV's earlier cooperation, and that the audit did not assess the scientific results.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S14",
-      "title": "Determination of WIV debarment",
+      "title": "Determination of Uncontested Suspension/Debarment: Debarment of Wuhan Institute of Virology, Chinese Academy of Sciences Capital Construction (WIV)",
       "publisher": "US HHS",
       "published": "2023-09-19",
       "url": "https://oversight.house.gov/wp-content/uploads/2023/09/Debartment.pdf",
       "type": "Administrative determination",
-      "supports": "Ten-year debarment and failure to provide required research records.",
-      "limitations": "Uncontested administrative determination, not a criminal judgment or pandemic-origin finding.",
-      "review": "Determination reviewed, including signature date and end date.",
-      "reviewed_on": "2026-11-14"
+      "supports": "Ten-year debarment based on NIH's finding that a WIV experiment had possibly exceeded the grant's permitted viral-growth limit, with failure to provide requested laboratory notebooks and electronic files as an aggravating factor.",
+      "limitations": "Uncontested administrative determination, not a criminal judgment or pandemic-origin finding. HHS-letterhead document hosted by the House Select Subcommittee majority; no copy on an HHS or SAM.gov page was found on 2026-11-17, and SAM.gov exclusion search could not be fetched (robots-disallowed), so current SAM status is unverified.",
+      "review": "Full PDF read 2026-11-17, including the image-only final page: digitally signed 19 September 2023 by the HHS Suspension and Debarment Official; debarred until close of business 16 July 2033, with the suspension effective 17 July 2023 included in the ten-year period; WIV deemed not to have contested. Bounded web search 2026-11-17 found no reported modification.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S15",
-      "title": "Notice of EcoHealth Alliance debarment",
+      "title": "Notice of Debarment of EcoHealth Alliance, Inc.",
       "publisher": "US HHS",
       "published": "2025-01-17",
       "url": "https://oversight.house.gov/wp-content/uploads/2025/01/Notice-_EHA_1.17.2025_Redacted.pdf",
       "type": "Administrative notice",
       "supports": "Five-year debarment, counting suspension time, through 14 May 2029.",
-      "limitations": "Historical notice; current legal status should be checked for later decisions.",
-      "review": "Notice reviewed.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Historical notice; the notice text is undated ('effective as of the date of this Notice') and the 17 January 2025 date comes from the file name and the committee's same-day release. HHS-letterhead document hosted by the House committee majority; no HHS or SAM.gov copy found on 2026-11-17 (SAM.gov search robots-disallowed). A bounded web search on 2026-11-17 found no reported appeal or modification; reports that EcoHealth closed in 2025 were not independently verified.",
+      "review": "Full notice read 2026-11-17: five-year debarment under 2 C.F.R. § 180.800(d); suspension effective 15 May 2024 included; ineligible through 14 May 2029. Signatory name redacted; no appeal route stated.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S16",
-      "title": "Notice of Peter Daszak debarment",
+      "title": "Notice of Debarment of Dr. Peter Daszak",
       "publisher": "US HHS",
       "published": "2025-01-17",
       "url": "https://oversight.house.gov/wp-content/uploads/2025/01/Dr.-Peter-Daszak-HHS-Notice_Jan-17-2025_Redacted.pdf",
       "type": "Administrative notice",
       "supports": "Five-year debarment, counting suspension time, through 20 May 2029.",
-      "limitations": "Historical notice; not a finding that he caused the pandemic.",
-      "review": "Notice reviewed.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Historical notice; not a finding that he caused the pandemic. Notice text is undated; the 17 January 2025 date comes from the file name and the committee's same-day release. HHS-letterhead document hosted by the House committee majority; no HHS or SAM.gov copy found on 2026-11-17. A bounded web search on 2026-11-17 found no reported appeal or modification; a reported 2025 employment lawsuit by Daszak against EcoHealth is not a debarment challenge.",
+      "review": "Full notice read 2026-11-17: five-year debarment; suspension effective 21 May 2024 included; ineligible through 20 May 2029. Signatory name redacted; no appeal route stated.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S17",
-      "title": "Director-General's remarks on delayed market data",
+      "title": "WHO Director-General's opening remarks at the media briefing – 17 March 2023",
       "publisher": "WHO",
       "published": "2023-03-17",
       "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---17-march-2023",
       "type": "Official statement",
       "supports": "WHO criticised the delayed release of Chinese CDC market-sample data.",
       "limitations": "Missing data affect investigation of animal as well as laboratory origins.",
-      "review": "Full relevant statement reviewed.",
-      "reviewed_on": "2026-11-14"
+      "review": "Full remarks read 2026-11-17. Date confirmed; Tedros said the China CDC market data 'could have – and should have – been shared three years ago'.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S18",
       "title": "Addendum: competing interests and the origins of SARS-CoV-2",
       "publisher": "The Lancet editors",
-      "published": "2021-06",
+      "published": "2021-06-21",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8215723/",
       "type": "Editorial disclosure addendum",
       "supports": "Expansion of Peter Daszak's competing-interest disclosure.",
-      "limitations": "Published June 2021; journal issue dated 26 June–2 July. Disclosure does not itself prove scientific misconduct.",
-      "review": "Indexed text and publisher abstract; direct full-page retrieval blocked.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Published online 21 June 2021; journal issue dated 26 June–2 July (397(10293):2449–2450). The updated disclosure is Daszak's own statement. Disclosure does not itself prove scientific misconduct.",
+      "review": "PubMed Central full text read 2026-11-17 (DOI 10.1016/S0140-6736(21)01377-5); confirms the updated disclosure covering EcoHealth's NIH-funded work in China.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S19",
-      "title": "Release of report on Proximal Origin",
+      "title": "Wenstrup Releases Alarming New Report on \"Proximal Origin\" Authors, NIH Suppression of the COVID-19 Lab Leak Hypothesis",
       "publisher": "US House Select Subcommittee, Republican majority",
       "published": "2023-07-11",
       "url": "https://oversight.house.gov/release/wenstrup-releases-alarming-new-report-on-proximal-origin-authors-nih-suppression-of-the-covid-19-lab-leak-hypothesis/",
       "type": "Political committee announcement",
       "supports": "Documented public release containing Slack messages.",
-      "limitations": "Used for provenance; the committee's accusations are not adopted as adjudicated facts.",
-      "review": "Dated announcement reviewed.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Used for provenance; the committee's accusations are not adopted as adjudicated facts. The release links Final-Report-6.pdf, whereas S20 cites Final-Report-7.pdf; both carry the same title and date.",
+      "review": "Release read 2026-11-17. Date 11 July 2023 confirmed; states the report includes 'previously unrevealed Slack messages and emails'.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S20",
-      "title": "The Proximal Origin of a Cover-Up: interim majority staff report",
+      "title": "The Proximal Origin of a Cover-Up: Did the \"Bethesda Boys\" Downplay a Lab Leak?",
       "publisher": "US House Select Subcommittee, Republican majority",
       "published": "2023-07-11",
       "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Final-Report-7.pdf",
       "type": "Political report containing primary exhibits",
       "supports": "Contemporaneous publication of message excerpts.",
-      "limitations": "Separate reproduced messages from the report's interpretation; a complete message audit remains outstanding.",
-      "review": "Indexed message passages and report date reviewed.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Separate reproduced messages from the report's interpretation; a complete message audit remains outstanding. A near-identical file (Final-Report-6.pdf) is the version linked from S19; differences were not compared.",
+      "review": "PDF read 2026-11-17 (about 80% of text). Cover title, 11 July 2023 date and interim majority staff authorship confirmed; reproduces dated Slack excerpts (e.g. Rambaut 2 Feb 2020, Andersen 21 Feb 2020).",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S21",
-      "title": "Covid Origins Scientist Denounces Reporting On His Messages As A Conspiracy Theory",
+      "title": "Covid Origins Scientist Denounces Reporting On His Messages As A 'Conspiracy Theory'",
       "publisher": "Gutentag, Woodhouse and Shellenberger / Public",
       "published": "2023-07-20",
       "url": "https://www.public.news/p/covid-origins-scientist-denounces",
       "type": "Journalistic publication with document links",
       "supports": "Publication of a larger Slack and email collection.",
       "limitations": "Full cache describes what the publisher released, not every message ever sent. Its misconduct claims need independent evaluation.",
-      "review": "Accessible article and download-link labels reviewed; complete PDF not compared.",
-      "reviewed_on": "2026-11-14"
+      "review": "Free portion of article read 2026-11-17; remainder paywalled. Confirmed authors, 20 July 2023 date, release of the 'full cache', link labels 'Proximal Origin Slack' (47MB) and 'Proximal Origin Emails' (184MB), and Andersen's public rejection of the reporting. Complete PDFs not downloaded or compared.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S22",
-      "title": "Announcement of Proximal Origin Slack release",
-      "publisher": "Senator Rand Paul / Senate HSGAC majority",
+      "title": "NEW DOC DROP: Slack Messages Reveal Proximal Origin Authors Privately Doubted the Science Behind Their Own Paper, Coordinated with Intelligence Community And NIH",
+      "publisher": "Senator Rand Paul, Chairman / Senate HSGAC majority",
       "published": "2026-07-22",
       "url": "https://www.hsgac.senate.gov/media/reps/new-doc-drop-slack-messages-reveal-proximal-origin-authors-privately-doubted-the-science-behind-their-own-paper-coordinated-with-intelligence-community-and-nih/",
       "type": "Political committee announcement",
       "supports": "Dated later release announcement.",
-      "limitations": "Overlap with the 2023 collection has not been established; some reporting uses 21 July.",
-      "review": "Dated announcement reviewed; complete files not compared.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Overlap with the 2023 collection has not been established. The page says the documents are 'newly released'; that is the committee's description. The earlier note that some reporting uses 21 July was not rechecked on 2026-11-17.",
+      "review": "Announcement read 2026-11-17: dated Wednesday 22 July 2026 (page metadata modified 29 July 2026); links slack-drop-AM.pdf and slack-drop-pm.pdf. Files not downloaded or compared.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S23",
-      "title": "WHO report suggests likely zoonotic origin, doesn't rule out lab leak",
+      "title": "WHO Report Suggests Likely Zoonotic Origin of COVID-19, Doesn't Rule Out Lab Leak",
       "publisher": "Lauren Schneider / JAMA",
       "published": "2025-07-25",
       "url": "https://jamanetwork.com/journals/jama/article-abstract/2837028",
-      "type": "Independent medical news summary",
+      "type": "Independent medical news summary (Medical News in Brief)",
       "supports": "Secondary-source support for a neutral Wikipedia update.",
-      "limitations": "Online date 25 July; issue date 26 August 2025.",
-      "review": "Visible summary reviewed.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Online date 25 July 2025; issue date 26 August 2025.",
+      "review": "Abstract page, DOI redirect and Crossref record checked 2026-11-17: author Lauren Schneider, JAMA 334(8):661, DOI 10.1001/jama.2025.10976, published online 25 July 2025, issue 26 August 2025. Citation in proposals/wikipedia-edits.md matches. PubMed record could not be retrieved.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S24",
@@ -285,9 +285,9 @@
       "url": "https://en.wikipedia.org/wiki/COVID-19_lab_leak_theory",
       "type": "Editable reference article",
       "supports": "Object of editorial review: lead and WHO assessment section.",
-      "limitations": "Retrieved page may be cached; oldid 1383318750 exposed by permanent-link control, but pinned-page fetch timed out.",
-      "review": "Retrieved article reviewed; permanent-link target recorded.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Retrieved page may be cached; oldid 1383318750 exposed by permanent-link control, but pinned-revision fetches failed on 2026-11-14 and again on 2026-11-17, so that revision is unverified.",
+      "review": "Live article re-read 2026-11-17: lead still does not mention the 2025 SAGO assessment or unavailable laboratory records; WHO section covers Tedros's 2021 objections and the 2025 SAGO report. Pinned revision not accessible.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S25",
@@ -297,9 +297,9 @@
       "url": "https://en.wikipedia.org/w/index.php?oldid=1384989793&title=Origin_of_SARS-CoV-2",
       "type": "Editable reference article, pinned revision",
       "supports": "WHO Phase 2 chronology and current presentation.",
-      "limitations": "Observation is about this revision, not all future versions.",
-      "review": "Pinned revision reviewed; edited 11 November 2026.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Observation is about this revision, not all future versions. The pinned revision could not be fetched on 2026-11-17.",
+      "review": "Pinned revision reviewed 2026-11-14 (edited 11 November 2026). Pinned fetch failed 2026-11-17; live article re-read instead: its Phase 2 discussion still ends at the 9 June 2022 SAGO preliminary report, and the June 2025 assessment was not found in the portion read.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S26",
@@ -309,33 +309,369 @@
       "url": "https://en.wikipedia.org/w/index.php?oldid=1367675190&title=The_proximal_origin_of_SARS-CoV-2",
       "type": "Editable reference article, pinned revision",
       "supports": "Attribution of the paper's conclusions and reference to the 2023 disclosure.",
-      "limitations": "Object of review, not independent proof of scientific claims.",
-      "review": "Pinned revision and retrieved article reviewed.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Object of review, not independent proof of scientific claims. The pinned revision could not be fetched on 2026-11-17.",
+      "review": "Pinned revision reviewed 2026-11-14. Pinned fetch failed 2026-11-17; live article re-read: still says the paper was the first to \"firmly determine\" a non-laboratory origin, and notes House Republicans' 2023 release of the authors' private messages.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S27",
-      "title": "Democratic staff findings on EcoHealth compliance",
+      "title": "In New Report, Select Subcommittee Democrats Reveal Potential Misrepresentations by EcoHealth Alliance to NIAID and Federal Investigators Regarding Compliance with Administrative Requirements and Scientific Work",
       "publisher": "US House Select Subcommittee, Democratic minority",
       "published": "2024-05-01",
       "url": "https://oversightdemocrats.house.gov/news/press-releases/new-report-select-subcommittee-democrats-reveal-potential-misrepresentations",
       "type": "Political committee announcement",
       "supports": "Concerns about possible misrepresentations alongside rejection of causal allegations.",
       "limitations": "Potential misconduct is not a final adjudication.",
-      "review": "Statement reviewed.",
-      "reviewed_on": "2026-11-14"
+      "review": "Press release read 2026-11-17. Date 1 May 2024 confirmed; cites possible misrepresentations and states the probe 'has not substantiated allegations' that EcoHealth-funded research caused the pandemic.",
+      "reviewed_on": "2026-11-17"
     },
     {
       "id": "S28",
-      "title": "Call for editorial action on Proximal Origin",
+      "title": "Open Letter To Nature Medicine",
       "publisher": "Biosafety Now",
-      "published": null,
+      "published": "2023-07-26",
       "url": "https://biosafetynow.org/open-letter-to-nature-medicine/",
       "type": "Advocacy letter",
       "supports": "Documents a request for an expression of concern and retraction review.",
-      "limitations": "Advocacy is evidence that a demand was made, not that the demand is scientifically justified.",
-      "review": "Indexed letter text reviewed; exact publication date not verified.",
-      "reviewed_on": "2026-11-14"
+      "limitations": "Advocacy is evidence that a demand was made, not that the demand is scientifically justified. The page is updated over time (last update shown 27 October 2025).",
+      "review": "Letter page read 2026-11-17: dated 26 July 2023, addressed to the Nature Medicine chief editor with 60 listed signers; asks for an expression of editorial concern and a process of withdrawal or retraction.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S70",
+      "title": "Wikipedia:Contentious topics",
+      "publisher": "English Wikipedia Arbitration Committee",
+      "published": "2026-09-08",
+      "url": "https://en.wikipedia.org/w/index.php?oldid=1373800289&title=Wikipedia:Contentious_topics",
+      "type": "Wikipedia procedure page, pinned revision",
+      "supports": "Behavioural expectations for editors in contentious topics; standard set of editor and page restrictions administrators may impose.",
+      "limitations": "Procedure page amended periodically; describes on-wiki rules, not article content. 'Published' is the revision timestamp.",
+      "review": "Wikitext of current revision read in the relevant sections.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S71",
+      "title": "Wikipedia:Arbitration/Requests/Case/COVID-19 (Remedy 1: Contentious topic designation)",
+      "publisher": "English Wikipedia Arbitration Committee",
+      "published": "2026-06-19",
+      "url": "https://en.wikipedia.org/w/index.php?oldid=1360082113&title=Wikipedia:Arbitration/Requests/Case/COVID-19#Contentious_topic_designation",
+      "type": "Arbitration decision, pinned revision",
+      "supports": "COVID-19 is designated a contentious topic, replacing community COVID-19 general sanctions (motion of 16 June 2021, amended December 2022, March 2026 and June 2026); June 2026 motion replaced awareness formalities with warnings.",
+      "limitations": "Concerns editor conduct procedure only; no finding about article content or the origin question. 'Published' is the revision timestamp of the latest amendment.",
+      "review": "Remedies and motions sections read.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S72",
+      "title": "Wikipedia:Contentious topics/COVID-19",
+      "publisher": "English Wikipedia Arbitration Committee",
+      "published": "2026-03-27",
+      "url": "https://en.wikipedia.org/w/index.php?oldid=1345717543&title=Wikipedia:Contentious_topics/COVID-19",
+      "type": "Wikipedia topic page, pinned revision",
+      "supports": "Topic page for the COVID-19 contentious topic (target of shortcut WP:CT/COVID); standard restrictions available to uninvolved administrators.",
+      "limitations": "Short summary page; the case page is the authoritative text.",
+      "review": "Full wikitext read.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S73",
+      "title": "Wikipedia:Conflict of interest",
+      "publisher": "English Wikipedia contributors",
+      "published": "2026-11-01",
+      "url": "https://en.wikipedia.org/w/index.php?oldid=1383284347&title=Wikipedia:Conflict_of_interest",
+      "type": "Wikipedia behavioural guideline, pinned revision",
+      "supports": "Any external relationship can create a COI; COI editors should disclose, are strongly discouraged from editing affected articles directly and can propose changes on talk pages via edit requests.",
+      "limitations": "Guideline wording changes over time; whether a given affiliation is a COI is judged case by case.",
+      "review": "Lead and edit-request sections read.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S74",
+      "title": "Wikipedia:Advocacy",
+      "publisher": "English Wikipedia contributors",
+      "published": "2026-07-23",
+      "url": "https://en.wikipedia.org/w/index.php?oldid=1365603521&title=Wikipedia:Advocacy",
+      "type": "Wikipedia supplement page, pinned revision",
+      "supports": "Wikipedia is not a venue for promoting an organisation's or person's agenda.",
+      "limitations": "Supplement to policy pages (NOT, NPOV), not itself a policy.",
+      "review": "Nutshell and lead read.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S75",
+      "title": "Talk:COVID-19 lab leak theory (thread 'Lead states more than the sources establish in a few places')",
+      "publisher": "English Wikipedia contributors",
+      "published": "2026-10-08",
+      "url": "https://en.wikipedia.org/w/index.php?oldid=1386243152&title=Talk:COVID-19_lab_leak_theory#Lead_states_more_than_the_sources_establish_in_a_few_places",
+      "type": "Wikipedia talk page, pinned revision",
+      "supports": "An existing talk-page proposal (8 October 2026) to add the 2025 SAGO assessment and adjust the lead; no replies in this revision. Talk page carries a contentious-topic page-restriction notice (extended-confirmed protection).",
+      "limitations": "Discussion is ongoing and may be archived; reflects one editor's proposal, not consensus. 'Published' is the thread date; revision is of 17 November 2026.",
+      "review": "Thread and talk-page header read.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S76",
+      "title": "COVID-19 lab leak theory (revision 1385770958)",
+      "publisher": "English Wikipedia contributors",
+      "published": "2026-11-15",
+      "url": "https://en.wikipedia.org/w/index.php?oldid=1385770958&title=COVID-19_lab_leak_theory",
+      "type": "Editable reference article, pinned revision",
+      "supports": "Current revision at recheck: lead does not summarise 2025 SAGO assessment; body WHO assessment section does; net change from 1383318750 is an added DEFUSE paragraph. Extended-confirmed protected at time of check.",
+      "limitations": "Observation is about this revision only; protection status from page information at access time, not from the revision text.",
+      "review": "Wikitext of this revision and of 1383318750 retrieved and compared.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S77",
+      "title": "Origin of SARS-CoV-2 (revision 1385691973)",
+      "publisher": "English Wikipedia contributors",
+      "published": "2026-11-14",
+      "url": "https://en.wikipedia.org/w/index.php?oldid=1385691973&title=Origin_of_SARS-CoV-2",
+      "type": "Editable reference article, pinned revision",
+      "supports": "Current revision at recheck: WHO Phase 2 subsection still ends at the 2022 preliminary report; only change from 1384989793 is citation tidying. Extended-confirmed protected (arbitration enforcement) at time of check.",
+      "limitations": "Observation is about this revision only; protection status from page information and protection log at access time.",
+      "review": "Wikitext of this revision and its parent retrieved and diffed.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S80",
+      "title": "OIG Recommendation Tracker: report A-05-21-00025 (report-grouped view)",
+      "publisher": "HHS Office of Inspector General",
+      "published": "2026-11-16",
+      "url": "https://oig.hhs.gov/reports/recommendations/tracker/?view-mode=report-grouped&search=A-05-21-00025&hhs-agency=all",
+      "type": "Official recommendation-status record",
+      "supports": "Per-recommendation status, agency response, closure dates and expected-update dates for the 16 recommendations of the January 2023 NIH/EcoHealth audit.",
+      "limitations": "Live page updated monthly; 'published' is the tracker's 'last updated' date. 'Closed Implemented' reflects OIG's acceptance of agency-reported action; the evidence for each closure is not published. Lists NIH as responsible agency even for recommendations addressed to EcoHealth. Tracker gives 'Concur' for recommendation 2 where the audit report says NIH 'generally concurred'.",
+      "review": "Fetched 2026-11-17 (tracker shows 'Last updated on Nov. 16, 2026'): 1 unimplemented, 15 implemented. 038.03 ('immediate notification' definition) Open Unimplemented, last update received 10/21/2024, next update expected 04/21/2025. Closure dates: .01/.04/.05/.06/.08 3 Aug 2023; .09 4 Aug 2023; .10/.13/.14/.15/.16 18 Oct 2023; .11/.12 16 Nov 2023; .07 8 Mar 2024; .02 28 Mar 2024. Same statuses appear on the report landing page (S13 URL).",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S81",
+      "title": "The National Institutes of Health and EcoHealth Alliance Did Not Effectively Monitor Awards and Subawards… (full report, A-05-21-00025)",
+      "publisher": "HHS Office of Inspector General",
+      "published": "2023-01-25",
+      "url": "https://oig.hhs.gov/oas/reports/region5/52100025.pdf",
+      "type": "Independent government audit (full report with auditee comments)",
+      "supports": "Text of recommendations and NIH's written comments, including its commitment to issue a Guide Notice and revise the Grants Policy Statement within 90 days to define 'immediate notification'.",
+      "limitations": "Records commitments as of January 2023; does not show later implementation. Scanned agency-comment appendix has OCR errors.",
+      "review": "PDF (5.2 MB) downloaded and text extracted 2026-11-17; read pp. 31–32 (summary of NIH comments) and NIH's comment appendix on recommendations 2 and 3.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S82",
+      "title": "WHO Director-General's opening remarks at the Member State briefing on the report of the Scientific Advisory Group for the Origins of Novel Pathogens – 27 June 2025",
+      "publisher": "WHO",
+      "published": "2025-06-27",
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-member-state-briefing-on-the-report-of-the-scientific-advisory-group-for-the-origins-of-novel-pathogens---27-june-2025",
+      "type": "Official speech",
+      "supports": "WHO's statement that China shared some but not all requested information (early sequences, market-animal information, Wuhan laboratory information) and that requested non-public intelligence reports had not been accessed.",
+      "limitations": "Speech as delivered/published by WHO; does not itemise dates of individual requests.",
+      "review": "Full text read 2026-11-17.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S83",
+      "title": "WHO Director-General's opening remarks at the media briefing – 27 June 2025",
+      "publisher": "WHO",
+      "published": "2025-06-27",
+      "url": "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing---27-june-2025",
+      "type": "Official speech",
+      "supports": "'Despite our repeated requests' China had not provided hundreds of early viral sequences, market-animal information or Wuhan laboratory information; intelligence reports requested but not accessed.",
+      "limitations": "Covers several unrelated topics; origins passage is one section.",
+      "review": "Full text read 2026-11-17; origins passage confirmed.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S84",
+      "title": "WHO urges US to share Covid origins intel (Agence France-Presse)",
+      "publisher": "GMA News Online (AFP)",
+      "published": "2026-02-12",
+      "url": "https://www.gmanetwork.com/news/topstories/world/976273/who-urges-us-to-share-covid-origins-intel/story/",
+      "type": "News report (wire)",
+      "supports": "Reports a WHO press conference on Wednesday 11 February 2026 at which Tedros said WHO had written to senior US officials 'several months ago' and had not received information, and Van Kerkhove said WHO was following up with all governments reporting intelligence.",
+      "limitations": "Secondary report of press-conference Q&A; WHO's published opening remarks for 11 February 2026 do not contain the origins exchange and no WHO transcript was located. Timestamp is 12 Feb 2026 (UTC+8).",
+      "review": "Full article read 2026-11-17. A 27 Feb 2026 Bloomberg interview (reported by El Imparcial) in which Tedros said he was 'very disappointed' was seen only via secondary coverage and not added.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S85",
+      "title": "China's NHC denies part of WHO panel's assessment on COVID-19 origins",
+      "publisher": "CGTN",
+      "published": "2025-06-30",
+      "url": "https://news.cgtn.com/news/2025-06-30/China-s-NHC-denies-part-of-WHO-panel-s-assessment-on-COVID-19-origins-1ECPBym3OE0/p.html",
+      "type": "State-media report of official statement",
+      "supports": "China's National Health Commission response to the SAGO report: data shared 'without reservation'; part of the report 'raised groundless requirements for China'; refers to the 30 April 2025 white paper.",
+      "limitations": "State broadcaster's report of the statement; the NHC original was not located or read. Evidence of China's stated position, not of what was shared.",
+      "review": "Article read 2026-11-17.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S86",
+      "title": "Antwort der Bundesregierung: Laborursprung des SARS-CoV-2-Virus (Drucksache 21/742)",
+      "publisher": "Deutscher Bundestag / Federal Government of Germany",
+      "published": "2025-07-01",
+      "url": "https://dserver.bundestag.de/btd/21/007/2100742.pdf",
+      "type": "Official parliamentary answer",
+      "supports": "German government's response (transmitted 30 June 2025) to a parliamentary question on the BND assessment: declines disclosure of BND details on state-interest grounds; says the government is informed by WHO of WHO's findings.",
+      "limitations": "Answer to an opposition (AfD) minor interpellation; the questioners' preamble is their framing. Does not state whether material was shared with WHO; absence of such a statement is not evidence it was not shared.",
+      "review": "PDF read 2026-11-17 (German): preliminary remark on confidentiality and answer to question 18 reviewed.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S87",
+      "title": "Crossref metadata record for DOI 10.1038/s41591-020-0820-9",
+      "publisher": "Crossref",
+      "published": "2026-11-17",
+      "url": "https://api.crossref.org/works/10.1038/s41591-020-0820-9",
+      "type": "Bibliographic metadata record",
+      "supports": "Absence of registered update records (correction, retraction, expression of concern) for Proximal Origin as of the check date.",
+      "limitations": "Crossref reflects only updates the publisher has registered; 'published' is the retrieval date of a live record.",
+      "review": "Queried 2026-11-17: no 'update-to'/'updated-by' and filter=updates returned 0 results. Same day, the nature.com article page (S01 URL) loaded and showed 'Correspondence', with no editor's note, correction or expression of concern.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S88",
+      "title": "\"Proximal Origins\" Retraction Request #2",
+      "publisher": "Biosafety Now",
+      "published": "2024-06-11",
+      "url": "https://biosafetynow.substack.com/p/covid-origins-proximal-origins-retraction-daf",
+      "type": "Advocacy letter and status account",
+      "supports": "That a second request for editorial action was sent to the Nature Medicine chief editor on 14 May 2024 and, per the requester, had not been acknowledged by 11 June 2024.",
+      "limitations": "Requester's own account of the journal's (non-)response; advocacy, not evidence that the allegations are correct.",
+      "review": "Post read 2026-11-17. The S28 letter page (updated 27 October 2025) separately records acknowledgement of receipt on 1 August 2023 and '824 days with no formal response'.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S89",
+      "title": "Anthony Fauci Behind Covid Origins Disinformation, Evidence Suggests",
+      "publisher": "Public",
+      "published": "2023-07-25",
+      "url": "https://www.public.news/p/anthony-fauci-behind-covid-origins",
+      "type": "Advocacy journalism",
+      "supports": "Reports that on 22 July 2023 Nature Medicine's chief editor told The Telegraph a retraction was 'not warranted' because the paper was a 'point of view'.",
+      "limitations": "Secondhand attribution with the publication's own characterisations; the Telegraph original was not accessed.",
+      "review": "Relevant passage read 2026-11-17.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S90",
+      "title": "How A COVID Origins Study Went From Conspiracy Theory Slayer To Just A 'Point Of View'",
+      "publisher": "The Daily Wire",
+      "published": "2023-07-25",
+      "url": "https://www.dailywire.com/news/how-a-covid-origins-study-went-from-conspiracy-theory-slayer-to-just-a-point-of-view",
+      "type": "News report",
+      "supports": "Corroborates that a Telegraph story published the weekend before 25 July 2023 conveyed Nature Medicine's characterisation of the paper as a 'point of view'.",
+      "limitations": "Partly paywalled; only the lede was read. Secondhand; Telegraph original not accessed.",
+      "review": "Lede and metadata read 2026-11-17.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S91",
+      "title": "Oral evidence: Reproducibility and research integrity, HC 606 (15 December 2021), Qq126–141",
+      "publisher": "House of Commons Science and Technology Committee",
+      "published": "2021-12-15",
+      "url": "https://committees.parliament.uk/oralevidence/3211/html",
+      "type": "Parliamentary oral evidence transcript",
+      "supports": "Richard Horton's account of The Lancet's handling of Daszak's competing interests: declarations taken 'on trust'; 'over a year' to obtain full declaration; June 2021 information 'should definitely have been included'; 'now more vigilant' but no described procedural change.",
+      "limitations": "Oral testimony, not a journal policy document. Direct and PDF fetches were blocked (403); text read via a fetch tool that returned verbatim extracts of the relevant answers.",
+      "review": "Answers to Q127, Q128, Q130, Q133 and Q134 read verbatim 2026-11-17.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S92",
+      "title": "Under-fire Lancet admits conflict of interest on lab-leak letter",
+      "publisher": "Times Higher Education",
+      "published": "2021-06-22",
+      "url": "https://www.timeshighereducation.com/news/under-fire-lancet-admits-conflict-interest-lab-leak-letter",
+      "type": "News report",
+      "supports": "Quotes the explanation in The Lancet's June 2021 addendum ('There may be differences in opinion as to what constitutes a competing interest'; authors invited to re-evaluate) and reports Daszak's recusal from the Lancet commission's origins taskforce.",
+      "limitations": "Secondary quotation of the addendum; the PMC copy (S18) was behind a browser check on 2026-11-17 so the quotation was not re-verified against it. Page shows 'last updated June 5, 2025'.",
+      "review": "Full article read 2026-11-17.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S93",
+      "title": "Slack messages, excerpt file (slack-drop-AM.pdf)",
+      "publisher": "US Senate HSGAC majority",
+      "published": "2026-07-22",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/slack-drop-AM.pdf",
+      "type": "Document release",
+      "supports": "Contents of the smaller 2026 release file.",
+      "limitations": "Political committee release; how the committee obtained the messages is not documented.",
+      "review": "Downloaded, hashed and text-extracted 2026-11-17 (sources/collections.csv); 140 messages, all also in S94.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S94",
+      "title": "Slack messages, main file (slack-drop-pm.pdf)",
+      "publisher": "US Senate HSGAC majority",
+      "published": "2026-07-22",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/slack-drop-pm.pdf",
+      "type": "Document release",
+      "supports": "Date range, page numbering and contents of the 2026 release.",
+      "limitations": "Political committee release; Bates pages SLACK_000001 to SLACK_000215 not included; how the committee obtained the messages is not documented.",
+      "review": "Downloaded, hashed and text-extracted 2026-11-17; 11,305 messages parsed, dated 30 April 2020 to 28 June 2023.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S95",
+      "title": "Proximal Origin Slack (PDF)",
+      "publisher": "Public",
+      "published": "2023-07-20",
+      "url": "https://public.substack.com/api/v1/file/05ecf4cf-3ef2-47d1-9505-661a13df0756.pdf",
+      "type": "Document release",
+      "supports": "Contents and date range of the 2023 Slack cache.",
+      "limitations": "Screenshots with no text layer; OCR errors and cropped lines possible; source of the cache not documented.",
+      "review": "Downloaded by the maintainer, hashed and OCR-processed 2026-11-17; dates shown run from 1 February to 30 April 2020.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S96",
+      "title": "Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19",
+      "publisher": "Calisher C, et al. (27 authors), The Lancet 395: e42–e43",
+      "published": "2020-02-19",
+      "url": "https://doi.org/10.1016/S0140-6736(20)30418-9",
+      "type": "Published statement",
+      "supports": "Wording and signatory count of the February 2020 statement.",
+      "limitations": "A statement of position, not a scientific analysis.",
+      "review": "Crossref metadata checked 2026-11-17 (27 authors, vol. 395, e42–e43); key sentence checked in an archived copy of the full text.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S97",
+      "title": "EcoHealth Alliance orchestrated key scientists' statement on 'natural origin' of SARS-CoV-2",
+      "publisher": "U.S. Right to Know",
+      "published": "2020-11-18",
+      "url": "https://usrtk.org/covid-19-origins/ecohealth-alliance-orchestrated-key-scientists-statement-on-natural-origin-of-sars-cov-2/",
+      "type": "Advocacy organisation publication of public-records emails",
+      "supports": "That emails obtained by public-records requests show Peter Daszak drafted and organised the Lancet statement.",
+      "limitations": "Advocacy group with a stated position on lab-origin questions; use with secondary coverage; publication date as shown in search results, not rechecked.",
+      "review": "Search-result text read 2026-11-17; full page not read.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S98",
+      "title": "COVID-19 misinformation (revision 1385662446)",
+      "publisher": "English Wikipedia",
+      "published": "2026-11-14",
+      "url": "https://en.wikipedia.org/w/index.php?oldid=1385662446&title=COVID-19_misinformation",
+      "type": "Encyclopaedia article revision",
+      "supports": "Wording of the lead and origin section; absence of the Lancet statement, Daszak and Facebook's lab-claim policy from the article text.",
+      "limitations": "Volunteer-maintained; one revision; search of wikitext for named terms.",
+      "review": "Wikitext retrieved 2026-11-17 (last edited 14 November 2026 15:48 UTC) and searched; revision ID from the Wikimedia REST API.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S99",
+      "title": "Facebook no longer removing posts claiming COVID-19 is man-made",
+      "publisher": "Associated Press (via WKMG ClickOrlando)",
+      "published": "2021-05-27",
+      "url": "https://www.clickorlando.com/business/2021/05/27/facebook-no-longer-removing-posts-claiming-covid-19-is-man-made",
+      "type": "News report",
+      "supports": "Facebook's February 2021 addition of man-made-origin claims to its removal list and its May 2021 reversal; corroborated by AFP and Reuters reports quoting Facebook's statement.",
+      "limitations": "Republished AP copy; Facebook's statement quoted secondhand.",
+      "review": "Search results from several outlets read 2026-11-17; AP text consistent across copies.",
+      "reviewed_on": "2026-11-17"
     }
   ]
 }
