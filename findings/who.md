@@ -30,7 +30,7 @@ An apology for overstatement is this project's recommendation. We did not find t
 
 SAGO and the broader origins-investigation framework are substantive institutional developments. The framework addresses laboratory breaches as well as animal pathways. Their existence should be recognised, while implementation and effectiveness remain separate questions. [S10]
 
-See the [proposed acknowledgment](../proposals/who-accountability-statement.md), the [timeline](../docs/timeline.md) and the [questions for WHO](../proposals/accountability-questions.md).
+See the [accountability requests and acknowledgment criteria](../proposals/who-accountability-requests.md), the [timeline](../docs/timeline.md) and the [questions for WHO](../proposals/accountability-questions.md).
 
 [S02]: https://www.who.int/publications/i/item/who-convened-global-study-of-origins-of-sars-cov-2-china-part
 [S03]: https://www.who.int/news-room/speeches/item/who-director-general-s-remarks-at-the-member-state-briefing-on-the-report-of-the-international-team-studying-the-origins-of-sars-cov-2

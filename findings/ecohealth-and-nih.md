@@ -14,7 +14,7 @@ This is a firmer foundation for criticism than treating partisan characterisatio
 
 In May 2024, Democratic committee staff also raised concerns about possible misrepresentations, while rejecting claims that the reviewed evidence demonstrated EcoHealth caused the pandemic. That is an attributed political report, not an independent judicial finding. [S27]
 
-HHS issued five-year debarment notices for EcoHealth and Daszak in January 2025. Including the preceding suspension, the notices specify ineligibility through 14 May 2029 and 20 May 2029 respectively. These are historical administrative decisions; any later appeal or modification must be checked before describing current legal status. [S15] [S16]
+HHS issued five-year debarment notices for EcoHealth and Daszak in January 2025. Including the preceding suspension, the notices specify ineligibility through 14 May 2029 and 20 May 2029 respectively. These are historical administrative decisions; any later appeal or modification must be checked before describing current legal status. A bounded web search on 17 November 2026 found no reported appeal or modification, but the official SAM.gov exclusion records could not be checked. [S15] [S16]
 
 ## Project recommendations
 

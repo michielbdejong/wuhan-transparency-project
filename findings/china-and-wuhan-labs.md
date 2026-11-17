@@ -12,7 +12,7 @@ These requests concern the conduct of authorities and institutions. They do not 
 
 ## Wuhan Institute of Virology
 
-HHS's September 2023 determination records repeated failures to supply original laboratory notebooks and electronic files requested to assess grant compliance. It imposed a ten-year debarment, counting suspension time, through 16 July 2033. The determination was uncontested. [S14]
+HHS's September 2023 determination relies on NIH's finding that a WIV experiment had possibly exceeded the viral-growth limit permitted under the grant. It treats repeated failures to supply the original laboratory notebooks and electronic files requested to assess that compliance as an aggravating factor. It imposed a ten-year debarment, counting suspension time, through 16 July 2033. The determination was uncontested. [S14]
 
 The original records and an independent compliance review remain legitimate demands. The administrative decision does not establish that WIV possessed SARS-CoV-2 before the outbreak or caused the pandemic.
 

@@ -17,12 +17,4 @@ Status on 14 November 2026.
 
 ## Claims not established by this dossier
 
-- That SARS-CoV-2 was engineered or escaped from a named laboratory.
-- That an identified individual deliberately concealed the actual origin.
-- That every private doubt demonstrates a knowingly false public statement.
-- That WHO never reconsidered its assessment.
-- That Wikipedia omits all discussion of WHO's reassessment.
-- That unavailable evidence proves what the evidence would show.
-- That every message released in 2026 was already public in 2023.
-
-These are limits of the present record. New evidence should change the project when warranted.
+See the [list in the README](../README.md#what-this-project-does-not-establish). Keep it current when the record changes.

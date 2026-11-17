@@ -1,6 +1,10 @@
-# Wuhan Transparency Project
+# Wuhan Logs
 
-A source-based project on transparency, research oversight and public communication about the origins of COVID-19.
+A source-based log of how evidence about the origins of COVID-19 reached the public: disclosure, research oversight and public communication, tracked over time.
+
+The case is named after the place where the pandemic was first recognised. The project takes no position on whether it began through animal spillover or a research-related incident; it tracks how evidence bearing on both was disclosed.
+
+The disclosure controls and grading used here are in [framework/](framework/), and the graded COVID findings in [cases/covid-origins/](cases/covid-origins/). They are written to be reusable for other cases.
 
 **Institutions should account for failures we can document, disclose relevant evidence, correct overstatements and explain how they will prevent recurrence.** These responsibilities remain whether the pandemic began through animal spillover or a research-related incident.
 
@@ -25,7 +29,7 @@ This initial edition was assembled on **14 November 2026**. It includes evidence
 
 ## Concrete proposals
 
-- [WHO acknowledgment and reform statement](proposals/who-accountability-statement.md)
+- [WHO accountability requests and acknowledgment criteria](proposals/who-accountability-requests.md)
 - [Wikipedia additions and attribution fixes](proposals/wikipedia-edits.md)
 - [Questions institutions should answer](proposals/accountability-questions.md)
 - [Provenance of the 2023 and 2026 Slack releases](research/slack-release-provenance.md)
@@ -37,6 +41,18 @@ WHO's latest assessment reviewed here continues to favour zoonotic spillover on 
 The HHS inspector general documented oversight deficiencies involving NIH and EcoHealth. Those findings justify accountability independently of any claim about the pandemic's cause. [S13]
 
 Slack messages were publicly available by July 2023. Whether every message in a later release was already public requires document-by-document comparison. [S19] [S21] [S22]
+
+## What this project does not establish
+
+- That SARS-CoV-2 was engineered or escaped from a named laboratory.
+- That an identified individual deliberately concealed the actual origin.
+- That every private doubt demonstrates a knowingly false public statement.
+- That WHO never reconsidered its assessment.
+- That Wikipedia omits all discussion of WHO's reassessment.
+- That unavailable evidence proves what the evidence would show.
+- That every message released in 2026 was already public in 2023.
+
+These are limits of the present record. New evidence should change the project when warranted.
 
 ## How to use this project
 
