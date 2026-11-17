@@ -624,6 +624,54 @@
       "limitations": "Screenshots with no text layer; OCR errors and cropped lines possible; source of the cache not documented.",
       "review": "Downloaded by the maintainer, hashed and OCR-processed 2026-11-17; dates shown run from 1 February to 30 April 2020.",
       "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S96",
+      "title": "Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19",
+      "publisher": "Calisher C, et al. (27 authors), The Lancet 395: e42–e43",
+      "published": "2020-02-19",
+      "url": "https://doi.org/10.1016/S0140-6736(20)30418-9",
+      "type": "Published statement",
+      "supports": "Wording and signatory count of the February 2020 statement.",
+      "limitations": "A statement of position, not a scientific analysis.",
+      "review": "Crossref metadata checked 2026-11-17 (27 authors, vol. 395, e42–e43); key sentence checked in an archived copy of the full text.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S97",
+      "title": "EcoHealth Alliance orchestrated key scientists' statement on 'natural origin' of SARS-CoV-2",
+      "publisher": "U.S. Right to Know",
+      "published": "2020-11-18",
+      "url": "https://usrtk.org/covid-19-origins/ecohealth-alliance-orchestrated-key-scientists-statement-on-natural-origin-of-sars-cov-2/",
+      "type": "Advocacy organisation publication of public-records emails",
+      "supports": "That emails obtained by public-records requests show Peter Daszak drafted and organised the Lancet statement.",
+      "limitations": "Advocacy group with a stated position on lab-origin questions; use with secondary coverage; publication date as shown in search results, not rechecked.",
+      "review": "Search-result text read 2026-11-17; full page not read.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S98",
+      "title": "COVID-19 misinformation (revision 1385662446)",
+      "publisher": "English Wikipedia",
+      "published": "2026-11-14",
+      "url": "https://en.wikipedia.org/w/index.php?oldid=1385662446&title=COVID-19_misinformation",
+      "type": "Encyclopaedia article revision",
+      "supports": "Wording of the lead and origin section; absence of the Lancet statement, Daszak and Facebook's lab-claim policy from the article text.",
+      "limitations": "Volunteer-maintained; one revision; search of wikitext for named terms.",
+      "review": "Wikitext retrieved 2026-11-17 (last edited 14 November 2026 15:48 UTC) and searched; revision ID from the Wikimedia REST API.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S99",
+      "title": "Facebook no longer removing posts claiming COVID-19 is man-made",
+      "publisher": "Associated Press (via WKMG ClickOrlando)",
+      "published": "2021-05-27",
+      "url": "https://www.clickorlando.com/business/2021/05/27/facebook-no-longer-removing-posts-claiming-covid-19-is-man-made",
+      "type": "News report",
+      "supports": "Facebook's February 2021 addition of man-made-origin claims to its removal list and its May 2021 reversal; corroborated by AFP and Reuters reports quoting Facebook's statement.",
+      "limitations": "Republished AP copy; Facebook's statement quoted secondhand.",
+      "review": "Search results from several outlets read 2026-11-17; AP text consistent across copies.",
+      "reviewed_on": "2026-11-17"
     }
   ]
 }

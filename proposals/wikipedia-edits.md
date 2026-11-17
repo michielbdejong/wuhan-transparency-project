@@ -61,6 +61,34 @@ A talk-page proposal might cover the points below. Rewrite it in your own words,
 
 This is a starting point for review, not a message sent on anyone's behalf.
 
+## 4. Say why evidence is missing (COVID-19 misinformation, origin section)
+
+Current wording: "An alternative hypothesis under investigation, deemed unlikely by the majority of virologists given a lack of evidence, is that the virus may have accidentally escaped from the Wuhan Institute of Virology in the course of standard research." [S98]
+
+Candidate replacement:
+
+> An alternative hypothesis under investigation, which most virologists consider less likely, is that the virus accidentally escaped from the Wuhan Institute of Virology in the course of research. In 2025 WHO's Scientific Advisory Group for the Origins of Novel Pathogens said it could not assess this possibility because requested laboratory records had not been provided.
+
+Cite SAGO's 2025 assessment and an independent summary such as JAMA's. [S07] [S23] The wording keeps the majority view and states the reason the evidence is incomplete, without implying equal probabilities.
+
+## 5. Narrow the conspiracy-theory sentence (COVID-19 lab leak theory, lead)
+
+Current wording: "Many scenarios proposed for a lab leak are characteristic of conspiracy theories." [S76]
+
+Candidate replacement: say which scenarios, with their sources. For example, claims of deliberate release or bioweapon development have the characteristics of conspiracy theories, while an accidental infection during research is a hypothesis that investigators, including SAGO, have said cannot be assessed or excluded on the information provided. After "There is no evidence supporting laboratory involvement…", add that WHO's advisory group reported that the records needed to assess it were not provided. [S07]
+
+## 6. Separate the accident scenario in the misinformation lead
+
+Current wording lists "a bioweapon accidentally or deliberately leaked from a laboratory" among unevidenced claims. [S98] Candidate: keep the bioweapon claim in that list, and add a clause pointing to the origin section, where an accidental escape is described as a hypothesis under investigation.
+
+## 7. Add how the misinformation label was applied (COVID-19 misinformation)
+
+Suggested location: the lab-leak passage, near the existing sentences on journalists and media softening their language. Draft:
+
+> In February 2020, 27 scientists published a statement in The Lancet condemning "conspiracy theories suggesting that COVID-19 does not have a natural origin". Emails later obtained through public-records requests showed that it was organised by Peter Daszak of EcoHealth Alliance, which had funded coronavirus research at the Wuhan Institute of Virology; in June 2021 The Lancet published an addendum expanding his competing-interest disclosure. From February to May 2021, Facebook removed posts claiming that the virus was man-made, before reversing the policy in light of ongoing investigations.
+
+Cite the statement, the addendum and secondary reporting directly: The Lancet [S96] [S18], Times Higher Education [S92] and AP [S99]. Cite US Right to Know [S97] only together with secondary coverage, and attribute it as an advocacy group. If critics' view that this amounted to steering the debate is included, attribute it to named critics in reliable sources and include the responses of those concerned.
+
 ## Editorial boundaries
 
 Use reliable published sources directly. Do not cite this repository as independent authority for its own judgments, present the project's assessment of WHO's 2021 confidence or its [acknowledgment criteria](who-accountability-requests.md) as fact, or infer misconduct from disagreement. Review source context and Wikipedia's applicable editorial requirements before submitting.
@@ -77,3 +105,10 @@ Use reliable published sources directly. Do not cite this repository as independ
 [S75]: https://en.wikipedia.org/w/index.php?oldid=1386243152&title=Talk:COVID-19_lab_leak_theory#Lead_states_more_than_the_sources_establish_in_a_few_places
 [S76]: https://en.wikipedia.org/w/index.php?oldid=1385770958&title=COVID-19_lab_leak_theory
 [S77]: https://en.wikipedia.org/w/index.php?oldid=1385691973&title=Origin_of_SARS-CoV-2
+[S07]: https://cdn.who.int/media/docs/default-source/documents/epp/sago/independent-assessment-of-the-origins-of-sars-cov-2-by-sago.pdf
+[S18]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8215723/
+[S92]: https://www.timeshighereducation.com/news/under-fire-lancet-admits-conflict-interest-lab-leak-letter
+[S96]: https://doi.org/10.1016/S0140-6736(20)30418-9
+[S97]: https://usrtk.org/covid-19-origins/ecohealth-alliance-orchestrated-key-scientists-statement-on-natural-origin-of-sars-cov-2/
+[S98]: https://en.wikipedia.org/w/index.php?oldid=1385662446&title=COVID-19_misinformation
+[S99]: https://www.clickorlando.com/business/2021/05/27/facebook-no-longer-removing-posts-claiming-covid-19-is-man-made

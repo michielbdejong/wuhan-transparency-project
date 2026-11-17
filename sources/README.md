@@ -471,3 +471,39 @@ See [machine-readable metadata](register.json) and the [claim register](../data/
 - Use: Contents and date range of the 2023 Slack cache.
 - Limit: Screenshots with no text layer; OCR errors and cropped lines possible; source of the cache not documented.
 - Review: Downloaded by the maintainer, hashed and OCR-processed 2026-11-17; dates shown run from 1 February to 30 April 2020.
+
+## S96
+
+[Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19](https://doi.org/10.1016/S0140-6736(20)30418-9) — Calisher C, et al. (27 authors), The Lancet 395: e42–e43. Published: 2020-02-19.
+
+- Type: Published statement.
+- Use: Wording and signatory count of the February 2020 statement.
+- Limit: A statement of position, not a scientific analysis.
+- Review: Crossref metadata checked 2026-11-17 (27 authors, vol. 395, e42–e43); key sentence checked in an archived copy of the full text.
+
+## S97
+
+[EcoHealth Alliance orchestrated key scientists' statement on 'natural origin' of SARS-CoV-2](https://usrtk.org/covid-19-origins/ecohealth-alliance-orchestrated-key-scientists-statement-on-natural-origin-of-sars-cov-2/) — U.S. Right to Know. Published: 2020-11-18.
+
+- Type: Advocacy organisation publication of public-records emails.
+- Use: That emails obtained by public-records requests show Peter Daszak drafted and organised the Lancet statement.
+- Limit: Advocacy group with a stated position on lab-origin questions; use with secondary coverage; publication date as shown in search results, not rechecked.
+- Review: Search-result text read 2026-11-17; full page not read.
+
+## S98
+
+[COVID-19 misinformation (revision 1385662446)](https://en.wikipedia.org/w/index.php?oldid=1385662446&title=COVID-19_misinformation) — English Wikipedia. Published: 2026-11-14.
+
+- Type: Encyclopaedia article revision.
+- Use: Wording of the lead and origin section; absence of the Lancet statement, Daszak and Facebook's lab-claim policy from the article text.
+- Limit: Volunteer-maintained; one revision; search of wikitext for named terms.
+- Review: Wikitext retrieved 2026-11-17 (last edited 14 November 2026 15:48 UTC) and searched; revision ID from the Wikimedia REST API.
+
+## S99
+
+[Facebook no longer removing posts claiming COVID-19 is man-made](https://www.clickorlando.com/business/2021/05/27/facebook-no-longer-removing-posts-claiming-covid-19-is-man-made) — Associated Press (via WKMG ClickOrlando). Published: 2021-05-27.
+
+- Type: News report.
+- Use: Facebook's February 2021 addition of man-made-origin claims to its removal list and its May 2021 reversal; corroborated by AFP and Reuters reports quoting Facebook's statement.
+- Limit: Republished AP copy; Facebook's statement quoted secondhand.
+- Review: Search results from several outlets read 2026-11-17; AP text consistent across copies.

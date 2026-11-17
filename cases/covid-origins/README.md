@@ -25,13 +25,13 @@ Grades are this project's assessments, applying [grading rules](../../framework/
 | The Lancet | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 | Nature Medicine | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 | Proximal Origin authors | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
-| English Wikipedia | 0 | 0 | 0 | 2 | 0 | 0 | 2 |
+| English Wikipedia | 0 | 0 | 0 | 6 | 0 | 0 | 6 |
 | US House Select Subcommittee majority | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
 | Public (news publisher) | 0 | 0 | 0 | 1 | 0 | 0 | 1 |
 | US Senate HSGAC majority | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
-| **Total** | **5** | **1** | **0** | **6** | **6** | **4** | **22** |
+| **Total** | **5** | **1** | **0** | **10** | **6** | **4** | **26** |
 
-The six positive observations (F02, F04, F10, F11, F20, F22) record controls operating or partly operating; F20 was regraded on 17 November 2026 after the Slack comparison found the Senate release's novelty claim consistent with the 2023 collections. Of the six observations of concern, two are about release provenance by a committee and a news publisher (F18, F19) and four concern individual authors or volunteer-maintained articles, which under [grading rule 7](../../framework/grading.md#rules-for-applying-grades) receive observations and suggestions only (F12, F15–F17). The disclosure in F12 was corrected in 2021.
+The six positive observations (F02, F04, F10, F11, F20, F22) record controls operating or partly operating; F20 was regraded on 17 November 2026 after the Slack comparison found the Senate release's novelty claim consistent with the 2023 collections. Of the ten observations of concern, two are about release provenance by a committee and a news publisher (F18, F19) and eight concern individual authors or volunteer-maintained articles, which under [grading rule 7](../../framework/grading.md#rules-for-applying-grades) receive observations and suggestions only (F12, F15–F17, F23–F26). F23–F26 were added on 17 November 2026 from a check of the COVID-19 misinformation and lab-leak articles ([findings/wikipedia.md](../../findings/wikipedia.md)). The disclosure in F12 was corrected in 2021.
 
 All five major nonconformities concern access to records and data or the monitoring of reporting (controls D.1.2, D.2.1–D.2.4), and all rest on WHO or SAGO statements or on HHS audit and administrative findings. No major nonconformity rests on a project assessment alone.
 
