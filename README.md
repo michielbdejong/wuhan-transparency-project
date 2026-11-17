@@ -40,7 +40,7 @@ WHO's latest assessment reviewed here continues to favour zoonotic spillover on 
 
 The HHS inspector general documented oversight deficiencies involving NIH and EcoHealth. Those findings justify accountability independently of any claim about the pandemic's cause. [S13]
 
-Slack messages were publicly available by July 2023. Whether every message in a later release was already public requires document-by-document comparison. [S19] [S21] [S22]
+Slack messages from February to April 2020 were publicly available by July 2023. The July 2026 Senate release covers 30 April 2020 to June 2023, and a comparison found almost none of its 11,305 messages in the two 2023 collections. [S19] [S21] [S22] See the [comparison](research/slack-release-provenance.md#comparison-result-17-november-2026).
 
 ## What this project does not establish
 
@@ -50,7 +50,7 @@ Slack messages were publicly available by July 2023. Whether every message in a 
 - That WHO never reconsidered its assessment.
 - That Wikipedia omits all discussion of WHO's reassessment.
 - That unavailable evidence proves what the evidence would show.
-- That every message released in 2026 was already public in 2023.
+- That every message in the 2026 release was first disclosed in 2026: only the two 2023 collections were compared.
 
 These are limits of the present record. New evidence should change the project when warranted.
 

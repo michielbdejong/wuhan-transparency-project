@@ -444,3 +444,30 @@ See [machine-readable metadata](register.json) and the [claim register](../data/
 - Use: Quotes the explanation in The Lancet's June 2021 addendum ('There may be differences in opinion as to what constitutes a competing interest'; authors invited to re-evaluate) and reports Daszak's recusal from the Lancet commission's origins taskforce.
 - Limit: Secondary quotation of the addendum; the PMC copy (S18) was behind a browser check on 2026-11-17 so the quotation was not re-verified against it. Page shows 'last updated June 5, 2025'.
 - Review: Full article read 2026-11-17.
+
+## S93
+
+[Slack messages, excerpt file (slack-drop-AM.pdf)](https://www.hsgac.senate.gov/wp-content/uploads/slack-drop-AM.pdf) — US Senate HSGAC majority. Published: 2026-07-22.
+
+- Type: Document release.
+- Use: Contents of the smaller 2026 release file.
+- Limit: Political committee release; how the committee obtained the messages is not documented.
+- Review: Downloaded, hashed and text-extracted 2026-11-17 (sources/collections.csv); 140 messages, all also in S94.
+
+## S94
+
+[Slack messages, main file (slack-drop-pm.pdf)](https://www.hsgac.senate.gov/wp-content/uploads/slack-drop-pm.pdf) — US Senate HSGAC majority. Published: 2026-07-22.
+
+- Type: Document release.
+- Use: Date range, page numbering and contents of the 2026 release.
+- Limit: Political committee release; Bates pages SLACK_000001 to SLACK_000215 not included; how the committee obtained the messages is not documented.
+- Review: Downloaded, hashed and text-extracted 2026-11-17; 11,305 messages parsed, dated 30 April 2020 to 28 June 2023.
+
+## S95
+
+[Proximal Origin Slack (PDF)](https://public.substack.com/api/v1/file/05ecf4cf-3ef2-47d1-9505-661a13df0756.pdf) — Public. Published: 2023-07-20.
+
+- Type: Document release.
+- Use: Contents and date range of the 2023 Slack cache.
+- Limit: Screenshots with no text layer; OCR errors and cropped lines possible; source of the cache not documented.
+- Review: Downloaded by the maintainer, hashed and OCR-processed 2026-11-17; dates shown run from 1 February to 30 April 2020.

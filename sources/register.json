@@ -588,6 +588,42 @@
       "limitations": "Secondary quotation of the addendum; the PMC copy (S18) was behind a browser check on 2026-11-17 so the quotation was not re-verified against it. Page shows 'last updated June 5, 2025'.",
       "review": "Full article read 2026-11-17.",
       "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S93",
+      "title": "Slack messages, excerpt file (slack-drop-AM.pdf)",
+      "publisher": "US Senate HSGAC majority",
+      "published": "2026-07-22",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/slack-drop-AM.pdf",
+      "type": "Document release",
+      "supports": "Contents of the smaller 2026 release file.",
+      "limitations": "Political committee release; how the committee obtained the messages is not documented.",
+      "review": "Downloaded, hashed and text-extracted 2026-11-17 (sources/collections.csv); 140 messages, all also in S94.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S94",
+      "title": "Slack messages, main file (slack-drop-pm.pdf)",
+      "publisher": "US Senate HSGAC majority",
+      "published": "2026-07-22",
+      "url": "https://www.hsgac.senate.gov/wp-content/uploads/slack-drop-pm.pdf",
+      "type": "Document release",
+      "supports": "Date range, page numbering and contents of the 2026 release.",
+      "limitations": "Political committee release; Bates pages SLACK_000001 to SLACK_000215 not included; how the committee obtained the messages is not documented.",
+      "review": "Downloaded, hashed and text-extracted 2026-11-17; 11,305 messages parsed, dated 30 April 2020 to 28 June 2023.",
+      "reviewed_on": "2026-11-17"
+    },
+    {
+      "id": "S95",
+      "title": "Proximal Origin Slack (PDF)",
+      "publisher": "Public",
+      "published": "2023-07-20",
+      "url": "https://public.substack.com/api/v1/file/05ecf4cf-3ef2-47d1-9505-661a13df0756.pdf",
+      "type": "Document release",
+      "supports": "Contents and date range of the 2023 Slack cache.",
+      "limitations": "Screenshots with no text layer; OCR errors and cropped lines possible; source of the cache not documented.",
+      "review": "Downloaded by the maintainer, hashed and OCR-processed 2026-11-17; dates shown run from 1 February to 30 April 2020.",
+      "reviewed_on": "2026-11-17"
     }
   ]
 }

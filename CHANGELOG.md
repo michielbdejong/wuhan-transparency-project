@@ -19,6 +19,8 @@
 - Added recommendation-by-recommendation implementation status for the January 2023 HHS-OIG audit of NIH and EcoHealth, from OIG's tracker: 15 of 16 closed, with the "immediate notification" definition still open and its April 2025 update overdue.
 - Itemised outstanding WHO and SAGO evidence requests, with recipients and recorded responses, including China's National Health Commission reply, Germany's reply to the Bundestag and WHO's request for US intelligence (February 2026).
 - Recorded bounded-search results on journal responses: no published Nature Medicine editorial response found; The Lancet's explanation is limited to its addendum and the editor's 2021 evidence to the House of Commons.
+- Completed the Slack release comparison. The July 2026 Senate main file (11,305 messages, 30 April 2020 to 28 June 2023) was compared with Public's July 2023 cache (1 February to 30 April 2020, via OCR) and the July 2023 House report. Apart from two messages on 30 April 2020, none of the 2026 messages were found in the 2023 collections. Updated the citation-ready correction, C11 and C12, disclosure events DE-2023-004 and DE-2026-001, and regraded F20 to a positive observation.
+- Added `sources/collections.csv` (URLs, sizes, SHA-256 hashes and page counts of the compared files, which are not stored here), the comparison script in `tools/slack-compare/`, and hand assessments of the 16 candidate matches. Added sources S93–S95.
 - Renamed the project from Wuhan Transparency Project to Wuhan Logs, to describe a record of disclosure rather than a campaign.
 - Added a draft disclosure control catalogue, statement of applicability and grading scheme (framework/), modelled on ISO/IEC 27001 audits, and re-graded the COVID material against it (cases/covid-origins/).
 
