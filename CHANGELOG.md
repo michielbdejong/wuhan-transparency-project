@@ -10,6 +10,12 @@
 - Noted that COVID-19 is an Arbitration Committee contentious topic on English Wikipedia. Added guidance that the Wikipedia drafts are starting points to be rewritten in the proposer's own words and proposed on talk pages, citing independent sources directly, with conflict-of-interest disclosure for anyone affiliated with the project.
 - Rechecked the three Wikipedia articles against live revisions; none of the proposals had been addressed. Recorded an existing 8 October 2026 talk-page proposal covering the 2025 SAGO assessment.
 - Moved the list of claims this project does not establish into the README.
+- Licensed the repository's own text and data under CC BY 4.0 (LICENSE). Linked and quoted third-party material keeps its original copyright and licence.
+- Added CITATION.cff and README sections on maintenance (monthly recheck of dynamic sources, with changes recorded here) and on licence and citation.
+- Framework: added controls D.5.5 (response to outside review requests) and D.6.4 (primary publication of own determinations). Added news-publisher and audit-body columns to the statement of applicability. Split "observation" into positive observations and observations of concern, and added a clause-by-clause test separating minor nonconformities from opportunities for improvement. Volunteer reference works and individual authors now receive observations and suggestions only.
+- COVID case: regraded findings under the revised scheme (F03 is now "not evidenced"; F12 and F15–F17 are observations under the volunteer and individual rule). Added F21 (HHS debarment decisions: primary publication not evidenced) and F22 (the inspector general's audit, published at its own stable location).
+- Proposed a data model linking sources, disclosure events, claims and graded findings (`research/data-model-proposal.md`), with stable `DE-YYYY-NNN` event IDs and CSVW metadata for validation.
+- Added a first draft register of 14 COVID-origins disclosure events, including two documented non-disclosures (`cases/covid-origins/disclosures.csv`). Every row cites existing sources; unknown dates and routes are left empty and explained.
 - Renamed the project from Wuhan Transparency Project to Wuhan Logs, to describe a record of disclosure rather than a campaign.
 - Added a draft disclosure control catalogue, statement of applicability and grading scheme (framework/), modelled on ISO/IEC 27001 audits, and re-graded the COVID material against it (cases/covid-origins/).
 

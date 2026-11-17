@@ -6,7 +6,7 @@ Status: draft framework, 17 November 2026. Machine-readable copy: [controls.csv]
 
 This catalogue describes how evidence about events that threaten humanity's security should reach the public. Its subject is the disclosure process: records, data sharing, timeliness, interests, communication of uncertainty, handling of dissent, correction, response to audit and the provenance of released material. It does not assess the underlying science or which explanation of an event is correct.
 
-The controls are written to be domain-neutral. "The actor" may be a public-health agency, a government, a research funder, a laboratory, a grant recipient, a journal, an author, a reference work, a legislative committee or an AI developer. Not every control applies to every actor; the [statement of applicability](applicability.csv) records which do, partly or not at all. "The event" means any event or risk of collective harm whose evidence the public needs: a pandemic, a dangerous research incident, a serious AI capability or failure, or another global risk.
+The controls are written to be domain-neutral. "The actor" may be a public-health agency, a government, a research funder, a laboratory, a grant recipient, a journal, an author, a reference work, a legislative committee, an AI developer, a news publisher, or an inspector general or other audit body. Not every control applies to every actor; the [statement of applicability](applicability.csv) records which do, partly or not at all. Its actor types are broad: "national government authority" includes executive agencies that issue determinations, such as a suspension and debarment official; "audit or oversight body" covers inspectors general, audit offices and ombudsmen, whose own conduct is graded under the same controls as that of the bodies they audit; "news publisher" covers organisations that publish journalism or release document collections. "The event" means any event or risk of collective harm whose evidence the public needs: a pandemic, a dangerous research incident, a serious AI capability or failure, or another global risk.
 
 ## The ISO/IEC 27001 analogy
 
@@ -18,7 +18,7 @@ The analogy breaks in three places, and the framework is adjusted accordingly.
 - **No management authority.** In ISO practice, top management accepts responsibility for corrective action. Here, corrective-action requests are published requests. An actor may ignore, rebut or reject them; each outcome is recorded, and a reasoned rebuttal can close a finding.
 - **No certification body.** Nothing is certified, suspended or withdrawn. Grades describe the evidence available at a stated date and are revised when the evidence changes. They are this project's assessments, not determinations by an accredited body, and should be cited as such.
 
-Two further differences matter in practice. Many relevant actors are individuals or volunteer communities, not organisations with a management system. And some actors audited here, such as legislative committees, are also sources of evidence for other findings; their releases are graded under the same controls as everyone else's.
+Two further differences matter in practice. Many relevant actors are individuals or volunteer communities, not organisations with a management system; they receive observations only, never nonconformities or corrective-action requests (see [grading](grading.md), rule 7). And some actors audited here, such as legislative committees, are also sources of evidence for other findings; their releases are graded under the same controls as everyone else's.
 
 ## Using the controls
 
@@ -204,6 +204,18 @@ Each control has an identifier, a statement of what the actor does, a rationale,
 
 **Failures covered.** Summaries frozen at superseded assessments; prominent sections lagging less prominent ones; undated historical positions.
 
+### D.5.5 Response to outside review requests
+
+**Control.** The actor acknowledges substantive, specific requests for review, information or audit cooperation from outside parties, including independent observers without a legal remit, and answers them within a period it states, by supplying the material, giving reasons for declining, or pointing to where the answer is already published.
+
+**Rationale.** D.1.2 covers bodies with a legal remit and D.5.2 covers published criticism. Requests from observers who have neither, such as researchers, civil-society auditors or this observatory, are otherwise answered or ignored at will. A stated route and period make silence distinguishable from delay, and a reasoned refusal is a sufficient answer.
+
+**Evidence of operation.** A published contact route and response period for enquiries and review requests; dated acknowledgments and answers; reasons given when a request is declined; a log of requests received and their outcome.
+
+**Failures covered.** No contact route; no acknowledgment; open-ended delay; answers given selectively to favoured requesters; refusals without reasons.
+
+**Limits.** The control does not oblige an actor to agree with a request or to supply material it may lawfully withhold, and it covers only requests that are specific and substantive. Where the requester is this observatory, non-response is graded no higher than an observation of concern, because the project would otherwise be judging its own request (see [grading](grading.md), rule 8).
+
 ## D.6 Release provenance
 
 ### D.6.1 Provenance and integrity of released material
@@ -235,3 +247,13 @@ Each control has an identifier, a statement of what the actor does, a rationale,
 **Evidence of operation.** Exhibits reproduced in full or with marked excisions; dates and surrounding messages included; interpretation clearly labelled.
 
 **Failures covered.** Excerpts without context; interpretation presented as the content of the record; selective quotation.
+
+### D.6.4 Primary publication of own determinations
+
+**Control.** The actor that issues official determinations or decisions bearing on the event (administrative sanctions, eligibility decisions, audit findings, formal assessments) publishes each one, in full or with marked redactions, dated and identified, at a stable location under its own control or in the official register designated for it, so that the public can find and cite the primary copy without relying on reproductions by third parties.
+
+**Rationale.** A determination that can be found only where a third party has chosen to post it depends on that party's selection, framing and hosting. Readers cannot confirm that the copy is complete and current, or whether the decision was later modified, appealed or has expired.
+
+**Evidence of operation.** A dated, identified primary copy on the issuer's own site or in the designated official register; stable URLs or record identifiers; marked redactions; a notice of any later modification, appeal or expiry linked from the original.
+
+**Failures covered.** Determinations available only through committees, litigants or the press; undated or unidentified decision documents; no public record of later modification; unexplained removal of the primary copy.

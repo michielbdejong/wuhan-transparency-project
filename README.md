@@ -62,6 +62,20 @@ The Wikipedia text and institutional statements here are drafts. Their inclusion
 
 Contributions: see [CONTRIBUTING.md](CONTRIBUTING.md). Changes: see [CHANGELOG.md](CHANGELOG.md).
 
+## Maintenance
+
+Wuhan Logs is maintained by Michiel de Jong ([michielbdejong](https://github.com/michielbdejong)). It is independent and not affiliated with any of the institutions it examines.
+
+Dynamic sources, such as Wikipedia revisions, debarment status and outstanding data requests, are rechecked monthly. Changes are recorded in [CHANGELOG.md](CHANGELOG.md), and the source register records when each source was last reviewed.
+
+The initial edition was AI-assisted and is being verified against its sources; see the [method](docs/methodology.md).
+
+## Licence and citation
+
+The repository's own text and data are licensed under [CC BY 4.0](LICENSE). Linked and quoted third-party material is not covered: it retains its original copyright and licensing terms (see [Citation and reuse](docs/methodology.md#citation-and-reuse)).
+
+To cite the project, use the metadata in [CITATION.cff](CITATION.cff), for example: Michiel de Jong, *Wuhan Logs* (dataset, version 2026-11-17), https://github.com/michielbdejong/wuhan-logs. Cite the original sources for any factual claim.
+
 [S07]: https://cdn.who.int/media/docs/default-source/documents/epp/sago/independent-assessment-of-the-origins-of-sars-cov-2-by-sago.pdf
 [S09]: https://www.who.int/publications/m/item/covid-19-global-risk-assessment--version-10
 [S13]: https://oig.hhs.gov/reports/all/2023/the-national-institutes-of-health-and-ecohealth-alliance-did-not-effectively-monitor-awards-and-subawards-resulting-in-missed-opportunities-to-oversee-research-and-other-deficiencies/
